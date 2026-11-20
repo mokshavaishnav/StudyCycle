@@ -1,6 +1,6 @@
 # StudyCycle
 
-# 🎯 StudyCycle – Smart Study & Productivity App
+# 🎯 StudyCycle – Focus, Play & Refresh
 
 StudyCycle is a productivity web application designed to help students improve focus, manage study time, and refresh their minds through fun mini-games.
 
@@ -39,10 +39,9 @@ Add screenshots of:
 
 ## 🌐 Live Demo
 
-Coming Soon!
+[Click here to use StudyCycle](https://mokshavaishnav.github.io/StudyCycle/)
+
 
 ## 👨‍💻 Author
 
 Moksha 
-
-GitHub:
