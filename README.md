@@ -43,6 +43,6 @@ Coming Soon!
 
 ## 👨‍💻 Author
 
-Your Name
+Moksha 
 
 GitHub:
